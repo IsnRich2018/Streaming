@@ -3,4 +3,5 @@ School presentation
 
 See here:
 https://isnrich2018.github.io/Streaming/
-(current state: basic design tests)
+
+(current state: _basic design tests_)
