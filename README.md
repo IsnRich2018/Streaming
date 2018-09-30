@@ -1,4 +1,6 @@
 # Streaming
 School presentation
 
-Being built...
+See here:
+https://isnrich2018.github.io/Streaming/
+(current state: basic design tests)
