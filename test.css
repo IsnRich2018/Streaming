@@ -29,6 +29,7 @@ h1 {
 	color: black;
 	margin: 0px;
 	padding: 8px;
+	display: inline-block;
 }
 
 a {
