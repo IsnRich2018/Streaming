@@ -29,12 +29,10 @@ header {
 
 h1 {
 	color: white;
-	margin: 0px;
-	padding: 8px;
 	display: inline-block;
 }
 
-h2 {
+h1, h2, h3 {
 	margin: 0px;
 	padding: 8px;
 }
@@ -51,7 +49,7 @@ a:hover {
 }
 
 table {
-	margin: 16px;
+	margin: 16px auto;
 }
 
 table, tr, td {
