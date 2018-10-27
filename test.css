@@ -34,11 +34,12 @@ h1 {
 
 h2 {
 	font-family: consolas, calibri;
-	font-size: 12px;
+	font-size: 18px;
+	text-decoration: underline;
 	color: white;
 	background-color: rgb(20,20,20);
 	margin: 8px 0px;
-	
+}	
 
 a {
 	text-decoration: none;
