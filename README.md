@@ -1,7 +1,7 @@
 # Streaming
 School presentation
 
-See here:
-https://isnrich2018.github.io/Streaming/
+See at:
+https://isnrich2018.github.io/Streaming
 
-(current state: _basic design tests_)
+(current state: _*_)
