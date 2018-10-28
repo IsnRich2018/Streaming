@@ -7,7 +7,13 @@ body {
 }
 
 p {
-	margin: 8px 16px;
+	margin: 16px;
+}
+
+img {
+	margin: 0 auto;
+	display: block;
+	max-height: 400px;
 }
 
 .main {
@@ -17,29 +23,19 @@ p {
 	margin-left: 10%;
 }
 
-.bar {
-	float: left;
-}
-
 header {
 	background-color: rgb(82,230,82);
 }
 
 h1 {
 	color: white;
-	margin: 0px;
-	padding: 8px;
 	display: inline-block;
 }
 
-h2 {
-	font-family: consolas, calibri;
-	font-size: 18px;
-	text-decoration: underline;
-	color: white;
-	background-color: rgb(20,20,20);
-	margin: 8px 0px;
-}	
+h1, h2 {
+	margin: 0px;
+	padding: 8px 16px;
+}
 
 a {
 	text-decoration: none;
@@ -53,21 +49,24 @@ a:hover {
 }
 
 table {
-	margin: 16px;
+	margin: 16px auto;
 }
 
 table, tr, td {
 	border: 1px solid rgb(82,230,82);
 	border-collapse: collapse;
+	transition: 0.2s ease-in-out;
 }
 
 td {
 	padding: 8px;
-	transition: 0.2s ease-in-out;
-	border: 1px solid black;
 }
 
-td:hover {
+tr ~ tr > td:hover {
 	background-color: rgb(82,230,82);
 	color: black;
+}
+
+tr ~ tr:hover {
+	background-color: rgb(66, 140, 66);
 }
