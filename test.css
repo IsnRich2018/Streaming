@@ -32,6 +32,10 @@ h1 {
 	display: inline-block;
 }
 
+h2 {
+	text-decoration: underline;
+}
+
 h1, h2, h3 {
 	margin: 0px;
 	padding: 8px 16px;
