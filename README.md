@@ -4,4 +4,4 @@ School presentation
 See at:
 https://isnrich2018.github.io/Streaming
 
-(current state: _*_)
+(current state: _Content_)
