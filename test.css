@@ -11,7 +11,7 @@ p {
 }
 
 .main {
-	border: 1px solid rgb(50,255,50);
+	border: 1px solid rgb(82,230,82);
 	text-align: left;
 	width: 80%;
 	margin-left: 10%;
@@ -57,7 +57,7 @@ table {
 }
 
 table, tr, td {
-	border: 1px solid rgb(50,255,50);
+	border: 1px solid rgb(82,230,82);
 	border-collapse: collapse;
 }
 
@@ -68,6 +68,6 @@ td {
 }
 
 td:hover {
-	background-color: rgb(50,255,50);
+	background-color: rgb(82,230,82);
 	color: black;
 }
