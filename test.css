@@ -32,7 +32,7 @@ h1 {
 	display: inline-block;
 }
 
-h1, h2 {
+h1, h2, h3 {
 	margin: 0px;
 	padding: 8px 16px;
 }
@@ -40,11 +40,33 @@ h1, h2 {
 a {
 	text-decoration: none;
 	color: white;
-	border-bottom: 3px solid orange;
 	transition: 0.2s ease-in-out;
 }
 
-a:hover {
+.lnk {
+	position: fixed;
+	width: 8%;
+	top: 66px;
+	left: 2%;
+	border: 1px solid rgb(82,230,82);
+	border-right: 0;
+	overflow: hidden;
+}
+
+.lnk > a {
+	padding: 16px;
+	display: block;
+}
+
+.lnk > a:hover {
+	background-color: rgb(82,230,82);
+}
+
+.gr {
+	border-bottom: 3px solid orange;
+}
+
+.gr:hover {
 	background-color: orange;
 }
 
