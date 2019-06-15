@@ -2,6 +2,6 @@
 School presentation
 
 See at:
-https://isnrich2018.github.io/Streaming
+https://lurux.github.io/Streaming/
 
 (current state: _Content_)
