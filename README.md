@@ -2,6 +2,6 @@
 School presentation
 
 See at:
-https://lurux.github.io/Streaming/
+https://lurux.github.io/streaming/
 
 (current state: _Content_)
