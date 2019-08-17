@@ -4,4 +4,4 @@ School presentation
 See at:
 https://lurux.github.io/streaming/
 
-(current state: _Content_)
+(current state: _Finished_)
